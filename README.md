@@ -22,12 +22,10 @@ Please find my portfolio [here](https://github.com/Zotoff/portfolio)
 
 ## Contacts
 
-:envelope: **E-mail:** [paulzotoff@gmail.com](paulzotoff@gmail.com)
+:envelope: [paulzotoff@gmail.com](paulzotoff@gmail.com)
 
-:iphone: **Phone**: +79042543584
+:iphone: +79042543584
 
-:telegram: **Telegram**: [@fathummel](https://t.me/fathummel)
-
-:skype: **Skype**: fathummel
+:computer: [@fathummel](https://t.me/fathummel)
 
 :computer: **[Linkedin](https://www.linkedin.com/in/paulzotov/)**
