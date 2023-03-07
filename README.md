@@ -26,8 +26,8 @@ Please find my portfolio [here](https://github.com/Zotoff/portfolio)
 
 :iphone: **Phone**: +79042543584
 
-:computer: **Telegram**: [@fathummel](https://t.me/fathummel)
+:telegram: **Telegram**: [@fathummel](https://t.me/fathummel)
 
-:computer: **Skype**: fathummel
+:skype: **Skype**: fathummel
 
 :computer: **[Linkedin](https://www.linkedin.com/in/paulzotov/)**
