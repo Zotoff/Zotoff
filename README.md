@@ -14,12 +14,12 @@ I like to work with interesting Front-end and Back-end projects, have good commu
 - PHP
 - Python (in the process of studying)
 
-## CMS with which i work ##
+## CMS with which I work ##
 - WordPress
 - MODx
 
 ## Portfolio ##
-**Please see my portfolio [here](https://github.com/Zotoff/portfolio)**
+**Please find my portfolio [here](https://github.com/Zotoff/portfolio)**
 
 ## Contacts ##
 :envelope: **E-mail:** [paulzotoff@gmail.com](paulzotoff@gmail.com)
