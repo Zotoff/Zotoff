@@ -21,7 +21,7 @@ Please find my portfolio [here](https://github.com/Zotoff/portfolio)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zotoff&layout=compact)](https://github.com/Zotoff/github-readme-stats)
 
 ## Contacts
-<hr />
+
 :envelope: **E-mail:** [paulzotoff@gmail.com](paulzotoff@gmail.com)
 
 :iphone: **Phone**: +79042543584
