@@ -13,7 +13,7 @@
 
 
 ## Portfolio
-Please find my portfolio [here](https://github.com/Zotoff/portfolio)
+Please find my portfolio [here](https://paulzotoff.ru)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zotoff&layout=compact)](https://github.com/Zotoff/github-readme-stats)
